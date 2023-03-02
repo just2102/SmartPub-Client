@@ -1,2 +1,2 @@
-# SmartDo
-ToDo App with Ethereum Smart Contracts
+# Online pub that sells beer for PIV coins (powered by Ethereum smart contracts)
+
